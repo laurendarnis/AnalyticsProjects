@@ -1,5 +1,5 @@
 ###### mini-project-solution DARNIS CS555 ######
-
+#### from Kaggle Dataset found: https://www.kaggle.com/bradklassen/pga-tour-20102018-data
 data <- read.csv("/Users/LaurenDarnis/Desktop/pga-tour-20102018-data/2019_data.csv")
 
 # learn more about the data
